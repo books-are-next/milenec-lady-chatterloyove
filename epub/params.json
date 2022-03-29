@@ -1,1 +1,527 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Milenec lady Chatterleyové",
+      "identifier": "urn:uuid:5f9b5d04-4b6e-499a-99d5-2d69df7c5ded",
+      "author": "David Herbert Lawrence",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-04-11T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP-text--12-12\nMLP-text--12-0",
+      "brAfter": "MLP-text--12-12\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-\nMLP-text--0-12",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-DOPIS-PODPIS-ii\nMLP-dopis--I\nMLP-titulka-prekladatel",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "milenec_lady_chatterloyove_001.md",
+            "xhtml": "milenec_lady_chatterloyove_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_002.md",
+            "xhtml": "milenec_lady_chatterloyove_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_003.md",
+            "xhtml": "milenec_lady_chatterloyove_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_004.md",
+            "xhtml": "milenec_lady_chatterloyove_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_005.md",
+            "xhtml": "milenec_lady_chatterloyove_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_006.md",
+            "xhtml": "milenec_lady_chatterloyove_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_007.md",
+            "xhtml": "milenec_lady_chatterloyove_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_008.md",
+            "xhtml": "milenec_lady_chatterloyove_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_009.md",
+            "xhtml": "milenec_lady_chatterloyove_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_010.md",
+            "xhtml": "milenec_lady_chatterloyove_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_011.md",
+            "xhtml": "milenec_lady_chatterloyove_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_012.md",
+            "xhtml": "milenec_lady_chatterloyove_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_013.md",
+            "xhtml": "milenec_lady_chatterloyove_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_014.md",
+            "xhtml": "milenec_lady_chatterloyove_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_015.md",
+            "xhtml": "milenec_lady_chatterloyove_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_016.md",
+            "xhtml": "milenec_lady_chatterloyove_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_017.md",
+            "xhtml": "milenec_lady_chatterloyove_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_018.md",
+            "xhtml": "milenec_lady_chatterloyove_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_019.md",
+            "xhtml": "milenec_lady_chatterloyove_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_020.md",
+            "xhtml": "milenec_lady_chatterloyove_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_021.md",
+            "xhtml": "milenec_lady_chatterloyove_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_022.md",
+            "xhtml": "milenec_lady_chatterloyove_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_023.md",
+            "xhtml": "milenec_lady_chatterloyove_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenec_lady_chatterloyove_024.md",
+            "xhtml": "milenec_lady_chatterloyove_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Milenec lady Chatterleyové",
+      "identifier": "urn:uuid:5f9b5d04-4b6e-499a-99d5-2d69df7c5ded",
+      "author": "David Herbert Lawrence",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-04-11T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_001.md",
+        "xhtml": "milenec_lady_chatterloyove_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_002.md",
+        "xhtml": "milenec_lady_chatterloyove_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_003.md",
+        "xhtml": "milenec_lady_chatterloyove_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_004.md",
+        "xhtml": "milenec_lady_chatterloyove_004.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 1",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_005.md",
+        "xhtml": "milenec_lady_chatterloyove_005.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 2",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_006.md",
+        "xhtml": "milenec_lady_chatterloyove_006.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 3",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_007.md",
+        "xhtml": "milenec_lady_chatterloyove_007.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 4",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_008.md",
+        "xhtml": "milenec_lady_chatterloyove_008.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 5",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_009.md",
+        "xhtml": "milenec_lady_chatterloyove_009.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 6",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_010.md",
+        "xhtml": "milenec_lady_chatterloyove_010.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 7",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_011.md",
+        "xhtml": "milenec_lady_chatterloyove_011.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 8",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_012.md",
+        "xhtml": "milenec_lady_chatterloyove_012.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 9",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_013.md",
+        "xhtml": "milenec_lady_chatterloyove_013.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 10",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_014.md",
+        "xhtml": "milenec_lady_chatterloyove_014.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 11",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_015.md",
+        "xhtml": "milenec_lady_chatterloyove_015.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 12",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_016.md",
+        "xhtml": "milenec_lady_chatterloyove_016.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 13",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_017.md",
+        "xhtml": "milenec_lady_chatterloyove_017.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 14",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_018.md",
+        "xhtml": "milenec_lady_chatterloyove_018.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 15",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_019.md",
+        "xhtml": "milenec_lady_chatterloyove_019.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 16",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_020.md",
+        "xhtml": "milenec_lady_chatterloyove_020.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 17",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_021.md",
+        "xhtml": "milenec_lady_chatterloyove_021.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 18",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_022.md",
+        "xhtml": "milenec_lady_chatterloyove_022.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola 19",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_023.md",
+        "xhtml": "milenec_lady_chatterloyove_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenec_lady_chatterloyove_024.md",
+        "xhtml": "milenec_lady_chatterloyove_024.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/milenec_la_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_milenec_lady_ch_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-DOPIS-PODPIS-ii",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis",
+      "MLP-dopis--I",
+      "MLP-dopis-bez1radku--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--12-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "milenec-lady-chatterloyove"
+    },
+    "generatedAt": 1648545824558
+  }
+}
