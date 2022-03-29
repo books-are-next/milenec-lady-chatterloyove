@@ -1,0 +1,218 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Milenec lady Chatterleyové",
+    "identifier": "urn:uuid:5f9b5d04-4b6e-499a-99d5-2d69df7c5ded",
+    "author": "David Herbert Lawrence",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-04-11T00:00:00.000Z",
+    "published": "2019-04-10T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_024.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/milenec_la_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_milenec_lady_ch_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Kapitola 1",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Kapitola 2",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Kapitola 3",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Kapitola 4",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Kapitola 5",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Kapitola 6",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Kapitola 7",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Kapitola 8",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Kapitola 9",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Kapitola 10",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Kapitola 11",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Kapitola 12",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Kapitola 13",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Kapitola 14",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Kapitola 15",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Kapitola 16",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Kapitola 17",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Kapitola 18",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Kapitola 19",
+      "href": "OEBPS/Text/milenec_lady_chatterloyove_023.xhtml#toc_marker-19"
+    }
+  ]
+}
