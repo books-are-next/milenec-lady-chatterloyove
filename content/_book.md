@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Milenec lady Chatterleyové
   identifier: urn:uuid:5f9b5d04-4b6e-499a-99d5-2d69df7c5ded
   author: David Herbert Lawrence
   publisher: Městská knihovna v Praze
   modified: '2019-04-11T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - milenec_lady_chatterloyove_001.html
   - milenec_lady_chatterloyove_002.html
@@ -38,6 +42,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
