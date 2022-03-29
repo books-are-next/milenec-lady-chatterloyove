@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-a97e145';
+const CACHE = 'cache-12b2885';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./milenec_lady_chatterloyove_001.html","./milenec_lady_chatterloyove_002.html","./milenec_lady_chatterloyove_003.html","./milenec_lady_chatterloyove_004.html","./milenec_lady_chatterloyove_005.html","./milenec_lady_chatterloyove_006.html","./milenec_lady_chatterloyove_008.html","./milenec_lady_chatterloyove_009.html","./milenec_lady_chatterloyove_010.html","./milenec_lady_chatterloyove_011.html","./milenec_lady_chatterloyove_012.html","./milenec_lady_chatterloyove_013.html","./milenec_lady_chatterloyove_014.html","./milenec_lady_chatterloyove_015.html","./milenec_lady_chatterloyove_016.html","./milenec_lady_chatterloyove_007.html","./milenec_lady_chatterloyove_017.html","./milenec_lady_chatterloyove_018.html","./milenec_lady_chatterloyove_019.html","./milenec_lady_chatterloyove_020.html","./milenec_lady_chatterloyove_021.html","./milenec_lady_chatterloyove_022.html","./milenec_lady_chatterloyove_023.html","./milenec_lady_chatterloyove_024.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_milenec_lady_ch_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./milenec_lady_chatterloyove_002.html","./milenec_lady_chatterloyove_005.html","./milenec_lady_chatterloyove_006.html","./milenec_lady_chatterloyove_007.html","./milenec_lady_chatterloyove_008.html","./milenec_lady_chatterloyove_009.html","./milenec_lady_chatterloyove_010.html","./milenec_lady_chatterloyove_011.html","./milenec_lady_chatterloyove_012.html","./milenec_lady_chatterloyove_013.html","./milenec_lady_chatterloyove_014.html","./milenec_lady_chatterloyove_015.html","./milenec_lady_chatterloyove_016.html","./milenec_lady_chatterloyove_017.html","./milenec_lady_chatterloyove_018.html","./milenec_lady_chatterloyove_019.html","./milenec_lady_chatterloyove_020.html","./milenec_lady_chatterloyove_021.html","./milenec_lady_chatterloyove_022.html","./milenec_lady_chatterloyove_023.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_milenec_lady_ch_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

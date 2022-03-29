@@ -14,10 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - milenec_lady_chatterloyove_001.html
   - milenec_lady_chatterloyove_002.html
-  - milenec_lady_chatterloyove_003.html
-  - milenec_lady_chatterloyove_004.html
   - milenec_lady_chatterloyove_005.html
   - milenec_lady_chatterloyove_006.html
   - milenec_lady_chatterloyove_007.html
@@ -37,10 +34,67 @@ readingOrder:
   - milenec_lady_chatterloyove_021.html
   - milenec_lady_chatterloyove_022.html
   - milenec_lady_chatterloyove_023.html
-  - milenec_lady_chatterloyove_024.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: milenec_lady_chatterloyove_005.html
+        title: Kapitola 1
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_006.html
+        title: Kapitola 2
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_007.html
+        title: Kapitola 3
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_008.html
+        title: Kapitola 4
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_009.html
+        title: Kapitola 5
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_010.html
+        title: Kapitola 6
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_011.html
+        title: Kapitola 7
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_012.html
+        title: Kapitola 8
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_013.html
+        title: Kapitola 9
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_014.html
+        title: Kapitola 10
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_015.html
+        title: Kapitola 11
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_016.html
+        title: Kapitola 12
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_017.html
+        title: Kapitola 13
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_018.html
+        title: Kapitola 14
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_019.html
+        title: Kapitola 15
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_020.html
+        title: Kapitola 16
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_021.html
+        title: Kapitola 17
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_022.html
+        title: Kapitola 18
+        hiddenTitle: false
+      - link: milenec_lady_chatterloyove_023.html
+        title: Kapitola 19
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

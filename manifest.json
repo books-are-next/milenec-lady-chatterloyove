@@ -2,38 +2,18 @@
   "author": "David Herbert Lawrence",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "lawrence-milenec-lady-chatterleyove-a97e145",
+  "identifier": "lawrence-milenec-lady-chatterleyove-12b2885",
   "languagecode": "cs",
   "modified": "2019-04-11T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Milenec lady Chatterleyové",
-  "revision": "a97e145",
+  "revision": "12b2885",
   "generatedAt": {
-    "date": "Tue Mar 29 2022 09:32:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648546363939
+    "date": "Tue Mar 29 2022 09:39:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648546773936
   },
   "documents": [
-    {
-      "title": "Milenec lady Chatterleyové",
-      "file": "milenec_lady_chatterloyove_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "milenec_lady_chatterloyove_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Milenec lady Chatterleyové",
       "file": "milenec_lady_chatterloyove_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "milenec_lady_chatterloyove_001.html",
-      "next": "milenec_lady_chatterloyove_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Milenec lady Chatterleyové",
-      "file": "milenec_lady_chatterloyove_003.html",
-      "words": 9,
-      "chars": 70,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 2,
-      "prev": "milenec_lady_chatterloyove_002.html",
-      "next": "milenec_lady_chatterloyove_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Milenec lady Chatterleyové",
-      "file": "milenec_lady_chatterloyove_004.html",
-      "words": 93,
-      "chars": 625,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "milenec_lady_chatterloyove_003.html",
+      "order": 0,
+      "prev": null,
       "next": "milenec_lady_chatterloyove_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 18013,
       "ideas": 43,
       "role": "chapter",
-      "order": 4,
-      "prev": "milenec_lady_chatterloyove_004.html",
+      "order": 1,
+      "prev": "milenec_lady_chatterloyove_002.html",
       "next": "milenec_lady_chatterloyove_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 15501,
       "ideas": 41,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "milenec_lady_chatterloyove_005.html",
       "next": "milenec_lady_chatterloyove_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 22110,
       "ideas": 100,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "milenec_lady_chatterloyove_006.html",
       "next": "milenec_lady_chatterloyove_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 21474,
       "ideas": 89,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "milenec_lady_chatterloyove_007.html",
       "next": "milenec_lady_chatterloyove_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 30113,
       "ideas": 150,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "milenec_lady_chatterloyove_008.html",
       "next": "milenec_lady_chatterloyove_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 26557,
       "ideas": 167,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "milenec_lady_chatterloyove_009.html",
       "next": "milenec_lady_chatterloyove_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 31290,
       "ideas": 135,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "milenec_lady_chatterloyove_010.html",
       "next": "milenec_lady_chatterloyove_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 24115,
       "ideas": 167,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "milenec_lady_chatterloyove_011.html",
       "next": "milenec_lady_chatterloyove_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 29101,
       "ideas": 73,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "milenec_lady_chatterloyove_012.html",
       "next": "milenec_lady_chatterloyove_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 76077,
       "ideas": 424,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "milenec_lady_chatterloyove_013.html",
       "next": "milenec_lady_chatterloyove_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 39386,
       "ideas": 181,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "milenec_lady_chatterloyove_014.html",
       "next": "milenec_lady_chatterloyove_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 26282,
       "ideas": 225,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "milenec_lady_chatterloyove_015.html",
       "next": "milenec_lady_chatterloyove_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 32187,
       "ideas": 267,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "milenec_lady_chatterloyove_016.html",
       "next": "milenec_lady_chatterloyove_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 34201,
       "ideas": 286,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "milenec_lady_chatterloyove_017.html",
       "next": "milenec_lady_chatterloyove_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 31831,
       "ideas": 253,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "milenec_lady_chatterloyove_018.html",
       "next": "milenec_lady_chatterloyove_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 41969,
       "ideas": 371,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "milenec_lady_chatterloyove_019.html",
       "next": "milenec_lady_chatterloyove_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 41082,
       "ideas": 128,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "milenec_lady_chatterloyove_020.html",
       "next": "milenec_lady_chatterloyove_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 30126,
       "ideas": 295,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "milenec_lady_chatterloyove_021.html",
       "next": "milenec_lady_chatterloyove_023.html",
       "toc": [
@@ -461,9 +401,9 @@
       "chars": 28765,
       "ideas": 176,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "milenec_lady_chatterloyove_022.html",
-      "next": "milenec_lady_chatterloyove_024.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -475,20 +415,20 @@
       ]
     },
     {
-      "title": "Milenec lady Chatterleyové",
-      "file": "milenec_lady_chatterloyove_024.html",
-      "words": 56,
-      "chars": 380,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 23,
+      "title": "Tiráž • Milenec lady Chatterleyové",
+      "file": "colophon.html",
+      "words": 159,
+      "chars": 1080,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
       "prev": "milenec_lady_chatterloyove_023.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -502,9 +442,9 @@
       "ideas": 3600
     },
     "chapters": {
-      "words": 101016,
-      "chars": 601255,
-      "ideas": 3595
+      "words": 100858,
+      "chars": 600180,
+      "ideas": 3571
     }
   }
 }

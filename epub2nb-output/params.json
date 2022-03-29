@@ -40,45 +40,49 @@
             "filename": "milenec_lady_chatterloyove_001.md",
             "xhtml": "milenec_lady_chatterloyove_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "milenec_lady_chatterloyove_002.md",
             "xhtml": "milenec_lady_chatterloyove_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "milenec_lady_chatterloyove_003.md",
             "xhtml": "milenec_lady_chatterloyove_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "milenec_lady_chatterloyove_004.md",
             "xhtml": "milenec_lady_chatterloyove_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "milenec_lady_chatterloyove_005.md",
@@ -89,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 1"
           },
           {
             "filename": "milenec_lady_chatterloyove_006.md",
@@ -100,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 2"
           },
           {
             "filename": "milenec_lady_chatterloyove_007.md",
@@ -111,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 3"
           },
           {
             "filename": "milenec_lady_chatterloyove_008.md",
@@ -122,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 4"
           },
           {
             "filename": "milenec_lady_chatterloyove_009.md",
@@ -133,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 5"
           },
           {
             "filename": "milenec_lady_chatterloyove_010.md",
@@ -144,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 6"
           },
           {
             "filename": "milenec_lady_chatterloyove_011.md",
@@ -155,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 7"
           },
           {
             "filename": "milenec_lady_chatterloyove_012.md",
@@ -166,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 8"
           },
           {
             "filename": "milenec_lady_chatterloyove_013.md",
@@ -177,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 9"
           },
           {
             "filename": "milenec_lady_chatterloyove_014.md",
@@ -188,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 10"
           },
           {
             "filename": "milenec_lady_chatterloyove_015.md",
@@ -199,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 11"
           },
           {
             "filename": "milenec_lady_chatterloyove_016.md",
@@ -210,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 12"
           },
           {
             "filename": "milenec_lady_chatterloyove_017.md",
@@ -221,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 13"
           },
           {
             "filename": "milenec_lady_chatterloyove_018.md",
@@ -232,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 14"
           },
           {
             "filename": "milenec_lady_chatterloyove_019.md",
@@ -243,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 15"
           },
           {
             "filename": "milenec_lady_chatterloyove_020.md",
@@ -254,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 16"
           },
           {
             "filename": "milenec_lady_chatterloyove_021.md",
@@ -265,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 17"
           },
           {
             "filename": "milenec_lady_chatterloyove_022.md",
@@ -276,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 18"
           },
           {
             "filename": "milenec_lady_chatterloyove_023.md",
@@ -287,18 +327,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola 19"
           },
           {
             "filename": "milenec_lady_chatterloyove_024.md",
             "xhtml": "milenec_lady_chatterloyove_024.xhtml",
             "id": 23,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -521,6 +564,6 @@
       "user": "books-are-next",
       "repo": "milenec-lady-chatterloyove"
     },
-    "generatedAt": 1648546300446
+    "generatedAt": 1648546695675
   }
 }
