@@ -8,4 +8,4 @@ lady Chatterleyové
 
 David Herbert Lawrence
 
-Přeložil František Vrba
+_Přeložil František Vrba_

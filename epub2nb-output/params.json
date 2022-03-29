@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Milenec lady Chatterleyové",
       "identifier": "urn:uuid:5f9b5d04-4b6e-499a-99d5-2d69df7c5ded",
       "author": "David Herbert Lawrence",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-04-11T00:00:00.000Z"
+      "modified": "2019-04-11T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -17,11 +21,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP-text--12-12\nMLP-text--12-0",
+      "brAfter": "MLP-text--12-12\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-\nMLP-text--0-12",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-DOPIS-PODPIS-ii\nMLP-dopis--I\nMLP-titulka-prekladatel",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "milenec_lady_chatterloyove_001.md",
@@ -516,6 +521,6 @@
       "user": "books-are-next",
       "repo": "milenec-lady-chatterloyove"
     },
-    "generatedAt": 1648545824558
+    "generatedAt": 1648546300446
   }
 }

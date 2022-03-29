@@ -1,0 +1,510 @@
+{
+  "author": "David Herbert Lawrence",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "lawrence-milenec-lady-chatterleyove-a97e145",
+  "languagecode": "cs",
+  "modified": "2019-04-11T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Milenec lady Chatterleyové",
+  "revision": "a97e145",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 09:32:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648546363939
+  },
+  "documents": [
+    {
+      "title": "Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "milenec_lady_chatterloyove_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "milenec_lady_chatterloyove_001.html",
+      "next": "milenec_lady_chatterloyove_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_003.html",
+      "words": 9,
+      "chars": 70,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "milenec_lady_chatterloyove_002.html",
+      "next": "milenec_lady_chatterloyove_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_004.html",
+      "words": 93,
+      "chars": 625,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "milenec_lady_chatterloyove_003.html",
+      "next": "milenec_lady_chatterloyove_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 1 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_005.html",
+      "words": 2908,
+      "chars": 18013,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 4,
+      "prev": "milenec_lady_chatterloyove_004.html",
+      "next": "milenec_lady_chatterloyove_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 2 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_006.html",
+      "words": 2516,
+      "chars": 15501,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 5,
+      "prev": "milenec_lady_chatterloyove_005.html",
+      "next": "milenec_lady_chatterloyove_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 3 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_007.html",
+      "words": 3591,
+      "chars": 22110,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 6,
+      "prev": "milenec_lady_chatterloyove_006.html",
+      "next": "milenec_lady_chatterloyove_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 4 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_008.html",
+      "words": 3508,
+      "chars": 21474,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 7,
+      "prev": "milenec_lady_chatterloyove_007.html",
+      "next": "milenec_lady_chatterloyove_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 5 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_009.html",
+      "words": 4965,
+      "chars": 30113,
+      "ideas": 150,
+      "role": "chapter",
+      "order": 8,
+      "prev": "milenec_lady_chatterloyove_008.html",
+      "next": "milenec_lady_chatterloyove_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 6 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_010.html",
+      "words": 4456,
+      "chars": 26557,
+      "ideas": 167,
+      "role": "chapter",
+      "order": 9,
+      "prev": "milenec_lady_chatterloyove_009.html",
+      "next": "milenec_lady_chatterloyove_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 7 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_011.html",
+      "words": 5153,
+      "chars": 31290,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 10,
+      "prev": "milenec_lady_chatterloyove_010.html",
+      "next": "milenec_lady_chatterloyove_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 8 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_012.html",
+      "words": 4055,
+      "chars": 24115,
+      "ideas": 167,
+      "role": "chapter",
+      "order": 11,
+      "prev": "milenec_lady_chatterloyove_011.html",
+      "next": "milenec_lady_chatterloyove_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 9 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_013.html",
+      "words": 4854,
+      "chars": 29101,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 12,
+      "prev": "milenec_lady_chatterloyove_012.html",
+      "next": "milenec_lady_chatterloyove_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 10 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_014.html",
+      "words": 12853,
+      "chars": 76077,
+      "ideas": 424,
+      "role": "chapter",
+      "order": 13,
+      "prev": "milenec_lady_chatterloyove_013.html",
+      "next": "milenec_lady_chatterloyove_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 11 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_015.html",
+      "words": 6404,
+      "chars": 39386,
+      "ideas": 181,
+      "role": "chapter",
+      "order": 14,
+      "prev": "milenec_lady_chatterloyove_014.html",
+      "next": "milenec_lady_chatterloyove_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 12 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_016.html",
+      "words": 4615,
+      "chars": 26282,
+      "ideas": 225,
+      "role": "chapter",
+      "order": 15,
+      "prev": "milenec_lady_chatterloyove_015.html",
+      "next": "milenec_lady_chatterloyove_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 13 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_017.html",
+      "words": 5302,
+      "chars": 32187,
+      "ideas": 267,
+      "role": "chapter",
+      "order": 16,
+      "prev": "milenec_lady_chatterloyove_016.html",
+      "next": "milenec_lady_chatterloyove_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 14 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_018.html",
+      "words": 6106,
+      "chars": 34201,
+      "ideas": 286,
+      "role": "chapter",
+      "order": 17,
+      "prev": "milenec_lady_chatterloyove_017.html",
+      "next": "milenec_lady_chatterloyove_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 15 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_019.html",
+      "words": 5482,
+      "chars": 31831,
+      "ideas": 253,
+      "role": "chapter",
+      "order": 18,
+      "prev": "milenec_lady_chatterloyove_018.html",
+      "next": "milenec_lady_chatterloyove_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 16 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_020.html",
+      "words": 7077,
+      "chars": 41969,
+      "ideas": 371,
+      "role": "chapter",
+      "order": 19,
+      "prev": "milenec_lady_chatterloyove_019.html",
+      "next": "milenec_lady_chatterloyove_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 17 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_021.html",
+      "words": 6848,
+      "chars": 41082,
+      "ideas": 128,
+      "role": "chapter",
+      "order": 20,
+      "prev": "milenec_lady_chatterloyove_020.html",
+      "next": "milenec_lady_chatterloyove_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 18 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_022.html",
+      "words": 5212,
+      "chars": 30126,
+      "ideas": 295,
+      "role": "chapter",
+      "order": 21,
+      "prev": "milenec_lady_chatterloyove_021.html",
+      "next": "milenec_lady_chatterloyove_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 19 • Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_023.html",
+      "words": 4953,
+      "chars": 28765,
+      "ideas": 176,
+      "role": "chapter",
+      "order": 22,
+      "prev": "milenec_lady_chatterloyove_022.html",
+      "next": "milenec_lady_chatterloyove_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenec lady Chatterleyové",
+      "file": "milenec_lady_chatterloyove_024.html",
+      "words": 56,
+      "chars": 380,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 23,
+      "prev": "milenec_lady_chatterloyove_023.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 101025,
+      "chars": 601319,
+      "ideas": 3600
+    },
+    "chapters": {
+      "words": 101016,
+      "chars": 601255,
+      "ideas": 3595
+    }
+  }
+}

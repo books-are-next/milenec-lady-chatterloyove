@@ -85,7 +85,11 @@ Jel s ní do hotelu Hartland a dohlédl na její ubytování; pak odešel do s
 
 Našla vzkaz od Mellorse.
 
+  
+
 > _Nepřijdu za tebou do tvého hotelu, ale počkám na tebe v sedm před Zlatým kohoutem v Adamově ulici._
+
+  
 
 Stál tam, vysoký a štíhlý a tak jiný ve večerním obleku z tenké tmavé látky. Choval se od přirozenosti vybraně, ale nebyl přistřižený na míru jako muži z její třídy. Viděla však okamžitě, že se může ukázat všude. Měl vrozené dobré způsoby, což bylo opravdu daleko příjemnější než na míru střižené manýry dané třídní společností.
 
