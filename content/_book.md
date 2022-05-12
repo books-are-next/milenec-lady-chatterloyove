@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - milenec_lady_chatterloyove_002.html
+  - promo.html
   - milenec_lady_chatterloyove_005.html
   - milenec_lady_chatterloyove_006.html
   - milenec_lady_chatterloyove_007.html
