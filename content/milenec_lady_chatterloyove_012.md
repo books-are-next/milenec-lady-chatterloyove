@@ -3,7 +3,7 @@ title: Kapitola 8
 contentType: prose
 ---
 
-  
+<section>
 
 Paní Boltonová pečlivě bděla i nad Connií, protože měla pocit, že i ji musí zahrnout pod svou ženskou a odbornou ochranu. V jednom kuse milostivou paní nutila, aby šla na procházku, aby si vyjela do Uthwaite, aby byla na vzduchu. Connie si totiž zvykla sedět tiše u krbu a tvářit se, že čte, nebo malátně šít a skoro vůbec nechodit ven.
 
@@ -336,3 +336,5 @@ Podíval se na ni a celý obličej se mu rozsvítil rošťáckým smíchem.
 Connie odcházela docela zmatena. Nebyla si jista, jestli je dotčena a smrtelně uražena, nebo ne. Třeba ten člověk opravdu jenom myslel, co říkal; snad měl strach, že na něm bude chtít, aby z chaty zmizel. Ve snách by ji to nenapadlo! Jako by jí na něm a na jeho hloupé přítomnosti mohlo vůbec nějak záležet!
 
 Šla domů celá popletená a nevěděla, co si vlastně myslí a co cítí.
+
+</section>

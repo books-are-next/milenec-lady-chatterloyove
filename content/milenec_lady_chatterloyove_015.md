@@ -3,7 +3,7 @@ title: Kapitola 11
 contentType: prose
 ---
 
-  
+<section>
 
 Connie krámovala v jedné komoře na haraburdí. Na Wragby jich bylo několik; dům byl přímo přecpaný a rodina nikdy nic neprodávala. Otec sira Geoffreyho měl rád obrazy a matka sira Geoffreyho měla ráda nábytek z _cinquecenta_. Sir Geoffrey sám měl rád staré vyřezávané dubové truhly, truhly ze sakristií. Tak to pokračovalo z generace na generaci. Clifford sbíral velice moderní obrazy za velice moderované ceny.
 
@@ -364,3 +364,5 @@ Vzplála v ní podivná nenávist.
 „Ale může takový dotek vydržet tak dlouho?“ zeptala se Connie najednou. „Aby ho člověk cítil tak dlouho?“
 
 „Ach milostpaní, co jiného člověku vydrží? Děti odrostou a odejdou vám. Ale muž, ach jo! Jenže i _to_ by ve vás nejradši zabili, i to pomyšlení, jak se ho dotýkáte. I vaše vlastní děti! Ach jo! Třeba bychom se byli nakonec taky rozešli, kdož ví. Ale ten pocit je docela jiná věc. Snad je lepší nikdy si nic nebrat k srdci. Ale když se tak podívám na ty ženské, které žádný mužský nikdy pořádně nezahřál, připadají mi jako chudinky ucourané, ať jsou sebevíc nastrojené a nafintěné. Kdepak, já už zůstanu při svém. K lidem moc respektu nemám.“
+
+</section>

@@ -3,7 +3,7 @@ title: Kapitola 16
 contentType: prose
 ---
 
-  
+<section>
 
 Connie se vrátila domů k hotovému křížovému výslechu. Clifford byl v době svačiny pryč, vrátil se těsně před bouřkou, a kde že je milostivá paní? Nikdo nevěděl, jen paní Boltonová si myslela, že šla na procházku do lesa. Do lesa, v takové bouřce? Clifford se pro jednou dal strhnout do stavu potřeštěné nervozity. Škubal sebou při každém zablesknutí a lekal se při každém zahřmění. Zíral do ledového lijavce, jako by to byl konec světa. Rozčiloval se čím dál víc.
 
@@ -744,3 +744,5 @@ Když Connie se svou kabelkou nastupovala do auta, řinuly se jí po tvářích 
 „Nasaď si to!“ řekla. A Connie se zakuklila, pak si oblékla dlouhý cestovní plášť a posadila se: obrýlené, nelidské a nepoznatelné stvoření. Hilda profesionálním gestem nastartovala. Vyjely z travnaté cesty a byly na silnici. Connie se rozhlížela, ale nebylo po něm ani vidu. Pryč! Pryč! Seděla a hořce plakala. Rozloučení přišlo tak náhle, tak nečekaně. Bylo to jako smrt.
 
 „Zaplaťpánbů, že od něho budeš na nějakou dobu pryč!“ poznamenala Hilda a zabočila, aby se vyhnula vesnici Crosshillu.
+
+</section>

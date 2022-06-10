@@ -2,18 +2,43 @@
 title: Tiráž
 ---
 
+<section>  
 **David Herbert Lawrence    
 Milenec lady Chatterleyové**  
+</section>  
+<section>  
 Edice Klasická světová próza  
+</section>  
+<section>  
 Překlad František Vrba  
-Ilustrace na obálce Amedeo Modigliani, _Ležící akt_ (1917)  
+</section>  
+<section>  
+</section>  
+<section>  
 Redakce Jaroslava Bednářová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
+</section>  
+<section>  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Milenec lady Chatterleyové](https://search.mlp.cz/cz/titul/milenec-lady-chatterleyove/18519/) tak, jak bylo vydáno nakladatelstvím Odeon v Praze v roce 1987. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,3 +55,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
   
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

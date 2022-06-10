@@ -3,7 +3,7 @@ title: Kapitola 17
 contentType: prose
 ---
 
-  
+<section>
 
 „Víš, Hildo,“ řekla Connie po obědě, když se blížily k Londýnu, „tys nikdy nepoznala opravdovou něhu ani opravdovou smyslnost; a když to žena pozná s jedním a týmž mužem, znamená to strašně moc.“
 
@@ -145,7 +145,9 @@ Byla v Benátkách už čtrnáct dní a měla tam zůstat ještě deset či č
 
 A z toho ji vyburcoval Cliffordův dopis.
 
-  
+</section>
+
+<section>
 
 _I tady jsme prožili malý lokální rozruch. Jak se zdá, zaběhlá manželka hajného Mellorse se objevila v hájovně a zjistila, že není vítána. Vypakoval ji a zamkl dveře na klíč. Povídá se však, že když se vrátil z lesa, našel onu nikoli už krásnou dámu pevně uhnízděnou ve své posteli_ in puris naturalibus, _nebo snad spíš_ in impuris naturalibus. _Vyrazila okno a tak se dostala dovnitř. Neschopen vystěhovat tu poněkud ohmatanou Venuši ze svého lože, zatroubil na ústup a stáhl se prý do domku své matky v Tevershallu. Venuše ze Stacks Gate se zatím usadila v hájovně, kterou prohlašuje za svůj domov, a Apollo zřejmě sídlí v Tevershallu._
 
@@ -153,7 +155,9 @@ _Opakuji to z doslechu, protože Mellors se mi osobně svěřit nepřišel. Má
 
 _Líbí se mi tvůj popis sira Malcolma, jak kráčí do moře s vlajícími bílými vlasy a zářícím růžovým tělem. Závidím ti to slunce. Tady prší. Ale nezávidím siru Malcolmovi jeho zatvrzelou smrtelnickou smyslnost. Patří konečně i k jeho věku. Čím je člověk starší, tím je zřejmě smyslnější a smrtelnější. Jenom mládí má příchuť nesmrtelnosti –_
 
-  
+</section>
+
+<section>
 
 Tahle zpráva se dotkla Connie v jejím stavu přituplého blaha tak, že to hraničilo se zoufalstvím. Zrovna teď ji musí ta potvora otravovat! Zrovna teď jí musí začít starosti! Od Mellorse žádný dopis nedostala. Dohodli se, že si vůbec nebudu psát, ale teď to chtěla slyšet od něho osobně. Je přece otec dítěte, které se má narodit. Ať napíše!
 
@@ -165,7 +169,9 @@ Duncan Forbes, malíř a jejich přítel, se na cestě z Říma zastavil ve vi
 
 Connie dostala dopis od paní Boltonové:
 
-  
+</section>
+
+<section>
 
 _Budete mít určitě radost, milostivá paní, až uvidíte sira Clifforda. Jen kvete a pracuje velice pilně a s velkými nadějemi. Samozřejmě se těší, až zase budete mezi námi. Dům je bez milostivé paní jako bez duše a všichni přivítáme její návrat s radostí._
 
@@ -175,7 +181,9 @@ _Ale když přišel za tmy domů, našel vyražené okno, a tak šel nahoru, ab
 
 _Pan Mellors zůstal u své matky a chodí do lesa parkem a ona zůstala v hájovně. No a bylo z toho nekonečně řečí. Tak se nakonec pan Mellors vypravil s Tornem Phillipsem do hájovny a odnesli většinu nábytku a věcí na spaní a odšroubovali rukojeť od pumpy, takže se musela vystěhovat. Ale místo aby se vrátila do Stacks Gate, nakvartýrovala se k paní Swainové v Beggarlee, jelikož žena jejího bratra Dana jí doma mít nechtěla. A v jednom kuse chodila k domku staré paní Mellorsové, aby ho chytila, a začala přísahat, že se s ní v hájovně vyspal, a šla k advokátovi, aby jí pan Mellors musel platit. Ztloustla a je ještě sprostější než předtím a je silná jako bejk. A roznáší o něm nejstrašnější věci, jak si vodí do hájovny ženské a jak se k ní choval, když spolu žili, jaké hnusné necudnosti na ní chtěl, a nevímco ještě. Je to hrozné, co může taková ženská napáchat, když jednou začne takhle vykládat. A kdyby byla sebesprostější, vždycky se najde někdo, kdo jí to bude věřit, a něco z té špíny na člověku zůstane. Je to určitě hanebnost, jak z pana Mellorse dělá toho sprosťáka a necudu vůči ženám. A lidé jsou až moc ochotní věřit pomluvám o každém, zvlášť když jde o takovéhle věci. Ona prohlašuje, že ho nikdy nenechá na pokoji, dokud bude živ. Třebaže se divím, proč se tak třese, aby se k němu vrátila, když prý k ní byl tak sprostý. Ale ona ovšem bude pomalu v přechodu, jelikož je o léta starší než on. A tyhle vulgární, násilnické ženské se vždycky napůl pominou, když přijdou do přechodu –_
 
-  
+</section>
+
+<section>
 
 Tohle byla pro Connii ošklivá rána. Ani tady ji nemine její díl sprostoty a špíny, to je jisté. Zlobila se na něho, že se té Berty Couttsové nezbavil, že se s ní vůbec oženil. Třeba ho to nějak táhne ke sprostotě. Connie si vzpomněla na svou poslední noc s ním a otřásla se. Znal už všechnu tu smyslnost, dokonce i s takovou Bertou Couttsovou! To je opravdu nechutné! Bylo by dobře zbavit se ho, docela ho pustit k vodě. Je možná opravdu vulgární, opravdu sprostý.
 
@@ -193,15 +201,21 @@ Ne, ne, tohle by nemělo být! Viděla ho v duchu bělostně nahého s osmahl�
 
 Udělala něco zbrklého. Poslala dopis Ivy Boltonové, přiložila k němu vzkaz pro hajného a požádala paní Boltonovou, aby mu ho dala. A napsala mu:
 
-  
+</section>
+
+<section>
 
 _Hrozně mě mrzí, že se dovídám o všech těch nepříjemnostech, které Vám dělá Vaše žena, ale nic si z toho nedělejte, je to jen nějaká hysterie. Pomine to stejně rychle, jako to přišlo. Ale je mi to hrozně líto a doufám, že si z toho moc neděláte. Vždyť to ani za to nestojí. Je to jen hysterická ženská, která Vám chce ublížit. Za deset dní budu zpátky doma a doufám, že všechno bude v pořádku._
 
-  
+</section>
+
+<section>
 
 Pár dní nato přišel dopis od Clifforda. Byl zřejmě rozrušen.
 
-  
+</section>
+
+<section>
 
 _Těší mě, že se chystáš odjet z Benátek šestnáctého. Ale jestli se ti tam líbí, nespěchej domů. Stýská se nám po tobě, Wragby se stýská. Ale hlavní je, aby sis užila svou plnou dávku slunce; slunce a pyžam, jak říkají reklamy na Lido. Tak tam prosím tě zůstaň ještě chvíli, jestli ti to dělá dobře a jestli tě to připraví na naši dost ohavnou zimu. I dneska tady prší._
 
@@ -247,11 +261,15 @@ _Zatím, drahá Connie, jestli by ti dělalo radost zůstat v Benátkách nebo 
 
 _Tak vidíš, jsme nestvůry mořských hlubin, a když se jeden krab brodí bahnem, rozvíří je pro všechny ostatní. Musíme to nutně brát filozoficky._
 
-  
+</section>
+
+<section>
 
 Podrážděnost a nedostatek jakéhokoli soucitu s kýmkoli v Cliffordově dopise na Connii těžce dolehly. Ale pochopila to líp, když dostala psaní od Mellorse.
 
-  
+</section>
+
+<section>
 
 _Kočka je z pytle venku společně s různými jinými koťaty. Slyšelas, že se moje manželka Berta vrátila do mé nemilující náruče a usídlila se v hájovně, kde – abych se vyjádřil neuctivě – vyčmuchala krysu v podobě lahvičky od Cotyho. Jiné důkazy nenašla, aspoň pár dní, než udělala kravál kvůli té spálené fotografii. Ve druhé ložnici našla sklo a zadní kartón. Na kartónu bohužel někdo načmáral pár kresbiček a několikrát opakovaný monogram C.S.R. To ale ještě neodhalilo žádnou stopu, dokud se nevloupala do chaty, kde našla jednu tvoji knihu, autobiografii herečky Judity, s tvým jménem Constance Stewart Reidová na titulní stránce. Potom několik dní obcházela a hlasitě rozhlašovala, že moje milostnice není nikdo menší než sama lady Chatterleyová. Doneslo se to nakonec až faráři, panu Burroughsovi a siru Cliffordovi. Ti pak podnikli zákonné kroky proti mé choti, která zmizela, poněvadž má odjakživa smrtelnou hrůzu před policií._
 
@@ -261,7 +279,9 @@ _Pojedu do Londýna a má stará bytná, paní Ingerová, Coburské náměstí 
 
 _Buď si jist, že tě tvé hříchy vyhledají, zvlášť když jsi ženatý a ona se jmenuje Berta –_
 
-  
+</section>
+
+<section>
 
 Nebylo tam ani slovo o ní nebo k ní. Connii to mrzelo. Taky mohl napsat pár slov útěchy nebo povzbuzení. Ale věděla, že jí nechává volnost, volnost vrátit se na Wragby a ke Cliffordovi. I to ji mrzelo. Nemusel být tak falešně rytířský. Přála si, aby byl Cliffordovi řekl: „Ano, je to moje milenka a spím s ní a jsem na to pyšný!“ Ale tak daleko jeho odvaha nesahala.
 
@@ -278,3 +298,5 @@ Duncan jí tedy dával pokoj a byl vlastně docela rád, že to tak dopadlo. Al
 Duncan se zeptal. Daniel řekl, že je ženatý a má dvě děti, oba chlapce, sedmiletého a devítiletého. Ale neprojevil nad tím žádné dojetí.
 
 „Snad jenom lidé, kteří jsou schopní opravdového soužití, mají tenhle výraz, jako by byli ve vesmíru sami,“ poznamenala Connie. „V těch ostatních je nějaká lepkavost, lepí se k mase, jako Giovanni.“ A, pomyslela si v duchu, jako ty, Duncane.
+
+</section>

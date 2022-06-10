@@ -3,7 +3,7 @@ title: Kapitola 12
 contentType: prose
 ---
 
-  
+<section>
 
 Connie šla do lesa rovnou po obědě. Byl opravdu nádherný den, pampelišky rozkvetly v malá sluníčka a první chudobky svítily bělostí. Lískové houští připomínalo krajku z polorozvitých lístků a z posledních svislých prášících jehněd. Žluté vlaštovičníky vybujely v celých houfech, s květy dokořán, stísněné spěchem a plné žlutého třpytu. Byla to žluť, sytá a mocná žluť časného léta. A petrklíče se široce otvíraly, plné bledě žlutého opojení, petrklíče v hustých chumáčích, už dávno ne ostýchavé. Šťavnatá temná zeleň hyacintů se rozlévala jako moře, z něhož trčely bledé hrozny poupat, zatímco v úvozu se natřásaly pomněnky a orlíčky rozvíjely své inkoustově fialové volánky a pod křovím ležely modré střípky skořápek z ptačích vajíček. Všude rašící pupeny a příboj života!
 
@@ -452,3 +452,5 @@ Políbil ji bez odpovědi.
 Přejel rukou po křivkách jejího těla, pevně a bez touhy, ale měkce a s důvěrnou znalostí.
 
 Když běžela soumrakem domů, připadal jí svět jako sen; stromy v parku jako by se vzdouvaly a vznášely na kotvě v přílivu a celý svah až k domu kypěl životem.
+
+</section>

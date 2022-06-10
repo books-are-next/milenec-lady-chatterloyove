@@ -3,7 +3,7 @@ title: Kapitola 9
 contentType: prose
 ---
 
-  
+<section>
 
 Connii překvapoval její vlastní odpor ke Cliffordovi. A co víc, zdálo se jí, že ho vlastně neměla ráda nikdy. Nebyla to nenávist: nebyla v tom žádná vášeň. Ale hluboká fyzická ošklivost. Skoro se jí zdálo, že si ho vzala, protože se jí nějak skrytě fyzicky protivil. Ve skutečnosti si ho ovšem vzala proto, že ji duševně přitahoval a vzrušoval. Připadal jí svým způsobem jako její pán, někdo nad ní.
 
@@ -148,3 +148,5 @@ Ani si neuvědomoval, do jaké míry ho podpírá paní Boltonová. Nevěděl, j
 Ke Connii byl poněkud škrobený. Cítil, že jí zůstal dlužen všechno, všechno, a choval se k ní s největší úctou a ohleduplností, pokud ho ona respektovala alespoň navenek. Ale bylo očividné, že z ní má tajnou hrůzu. Nový Achilles v něm měl svou patu, a ranou do té paty ho mohla žena, žena jako Connie, jeho manželka, osudně ochromit. Žil v jisté napůl servilní hrůze před ní a byl k ní neobyčejně roztomilý. Ale když s ní mluvil, bylo mu v hlase cítit určité napětí a začínal v její přítomnosti mlčet.
 
 Jenom když byl sám s paní Boltonovou, připadal si opravdu jako pán a velitel a mluvil skoro právě tak nenuceně a upovídaně jako ona sama. A nechal se od ní holit a omývat houbou po celém těle, jako by byl dítě, opravdu jako malé dítě.
+
+</section>

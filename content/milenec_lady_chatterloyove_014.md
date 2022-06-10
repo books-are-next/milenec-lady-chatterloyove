@@ -3,7 +3,7 @@ title: Kapitola 10
 contentType: prose
 ---
 
-  
+<section>
 
 Connie teď bývala hodně sama, na Wragby přijíždělo méně hostů. Clifford už o ně nestál. Obrátil se dokonce i proti svým starým kumpánům. Byl divný. Dával přednost rádiu, které si se značnými výlohami dal zařídit, ale nakonec se mu vyplatilo. Chytil někdy Madrid nebo Frankfurt, i tady v nepříznivých podmínkách střední Anglie.
 
@@ -850,3 +850,5 @@ Paní Boltonová ho viděla, jak mizí, viděla, jak jeho pes běží za ním.
 „Inu, inu!“ řekla si. „Je to jediný mužský, na kterého jsem si ani nevzpomněla, a jediný mužský, na kterého jsem si mohla vzpomenout. Byl ke mně hodný jako chlapec, když jsem přišla o Teda. Inu, inu! Co by tomu asi řekl _on_, kdyby to věděl?“
 
 A vrhla vítězoslavný pohled na spícího už Clifforda a vyšla tiše z pokoje.
+
+</section>

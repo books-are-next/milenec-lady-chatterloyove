@@ -3,7 +3,7 @@ title: Kapitola 13
 contentType: prose
 ---
 
-  
+<section>
 
 V neděli si chtěl Clifford vyjet do lesa. Bylo krásné dopoledne, na světě se najednou tu a tam objevily rozkvetlé hrušně a švestky jako bílý zázrak.
 
@@ -536,3 +536,5 @@ Odešla nahoru, jak mohla nejdřív, a velice brzy si lehla. Ale v půl desát
 Connie se vrátila do svého pokoje, odhodila pyžamo na rozházenou postel, oblékla si tenký tenisový dres a přes něj vlněné denní šaty, obula se do tenisek a přehodila si přes sebe lehký plášť. A byla hotová. Jestli někoho potká, jde se na chvilku projít. A ráno, až se bude vracet, může říci, že se právě trochu brouzdala rosou, jak to dělá před snídaní dost často. Jinak hrozilo jenom jedno nebezpečí, že někdo v noci přijde do jejího pokoje. Ale to bylo nanejvýš nepravděpodobné, ani ne v poměru jedna ke stu.
 
 Betts ještě nezamkl. Zavíral dům na petlici v deset večer a otvíral v sedm ráno. Vyklouzla tiše a nepozorovaně. Svítil dost jasně půlměsíc, dost na to, aby trochu viděla na cestu, ale ne natolik, aby bylo vidět ji v tmavošedém plášti. Vykročila rychle přes park, ani ne tak vzrušená dostaveníčkem, jako spíš rozpálená nějakým vztekem a vzpurností. Nebyla to ta pravá nálada, s jakou se chodí na milostnou schůzku. Jenomže kdo se dal na vojnu, musí bojovat!
+
+</section>
