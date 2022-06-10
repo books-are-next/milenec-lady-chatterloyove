@@ -3,7 +3,7 @@ title: Kapitola 4
 contentType: prose
 ---
 
-  
+<section>
 
 Connie vždycky tušila, že její poměr s Mickem, jak mu lidé říkali, je beznadějný. Ostatní muži však jako by pro ni přesto nic neznamenali. Byla připoutaná ke Cliffordovi. Vyžadoval na ní značnou část jejího života a ona mu ji dávala. Ale ona zase vyžadovala značnou část života mužova, a tu jí Clifford nedával; nemohl. Prožila příležitostné křečovité záchvaty s Michaelisem. Ale v předtuše věděla, že to skončí. Mick _nemohl_ žádný vztah udržet. Patřilo k podstatě jeho bytosti, že musel zpřetrhat každé spojení a stát se znovu ze řetězu puštěným, osamělým a naprosto samotářským psem. Byla to jeho nejnezbytnější potřeba, třebaže vždycky říkal: „Ona mě nechala!“
 
@@ -98,7 +98,9 @@ K nádherné diskusi došlo v neděli večer, když se konverzace znovu stoči
 _„Buď požehnáno pouto, které víže  
 nám srdce jakýmkoli příbuzenstvím —“_
 
-  
+</section>
+
+<section>
 
 zarecitoval Tommy Dukes. „Rád bych věděl, jaké je to vlastně pouto… Pouto, které teď víže nás, je leda vzájemné duševní tření. Jinak je mezi námi sakramentsky málo pout. Táhneme každý jinam a říkáme jeden o druhém zlomyslnosti jako všichni ostatní zatracení intelektuálové na světě. Všichni jsou v tomhle ohledu zatracení, protože to tak dělá každý z nich. Ve všem ostatním táhneme každý jinam a maskujeme ty jedovatosti, co si jeden o druhém myslíme, neupřímným mazáním medu kolem huby. Divná věc, že se intelektuálnímu životu zřejmě nejlíp daří s kořeny, které rostou z nevraživosti, z nevýslovné a bezedné nevraživosti. A vždycky to tak bylo! Podívejte se na Sokrata, na Platóna a na tu chásku kolem něho! Samá nevraživost, nic než čirá radost, když někoho mohli roztrhat na kusy… Protagoras, nebo kdo to byl! A Alkibiades a všichni ti ostatní učenliví pejsánkové, co se přidali do té mely! Namouduši, to mi je milejší Buddha, když si klidně sedí pod posvátným stromem, nebo Ježíš, když vykládá svým učedníkům nedělní pohádky, mírumilovně a bez intelektuálních ohňostrojů. Ne, s intelektuálním životem je něco v nepořádku, od základu. Koření v nevraživosti a v zášti, v zášti a nevraživosti. Strom poznáte po ovoci.“
 
@@ -181,3 +183,5 @@ Mužům to šlo proti srsti… měla se tvářit, že nic neslyší. Nemohli sn�
 „Není to zdaleka tak složité, když člověk zůstane čistý,“ řekl Berry.
 
 „Jistě, život je až moc jednoduchý.“
+
+</section>

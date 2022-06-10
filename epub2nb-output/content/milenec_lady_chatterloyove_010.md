@@ -3,7 +3,7 @@ title: Kapitola 6
 contentType: prose
 ---
 
-  
+<section>
 
 „Proč se vlastně dneska muži a ženy nemají doopravdy rádi?“ zeptala se Connie Tommyho Dukese, který byl víceméně jejím orákulem.
 
@@ -336,3 +336,5 @@ Connie se na Clifforda zamyšleně zadívala. Uvědomila si v něm ten zvlášt
 Podíval se na ni zvědavě, nejistě, napůl podezíravě. A Connie cítila, že jí neříká skutečnou pravdu; nepřiznával skutečnou pravdu ani sám sobě, v tom to bylo. Protivila se mu každá zmínka o skutečně výjimečném člověku. Lidé museli být víceméně na jeho úrovni nebo pod ní.
 
 Connie znovu pocítila malodušnost a nepřejícnost mužů své generace. Byli tak malodušní, tolik se báli života!
+
+</section>

@@ -3,7 +3,7 @@ title: Kapitola 1
 contentType: prose
 ---
 
-  
+<section>
 
 Náš věk je v podstatě tragický, a tak ho odmítáme tragicky brát. Katastrofa se přehnala, stojíme mezi troskami, začínáme si budovat nová bydlišťátka, chovat nové nadějičky. Je to pořádná dřina: do budoucnosti dnes nevede žádná hladká silnice, místo toho obcházíme nebo přelézáme překážky. Musíme žít bez ohledu na to, kolik obloh se nám zhroutilo.
 
@@ -88,3 +88,5 @@ Jenomže Emma řekla ne! Byla o deset let starší než Clifford a cítila, ž
 Clifford se přesto oženil s Connií a prožil s ní měsíc líbánek. Bylo to ve strašném roce 1917 a sblížili se spolu jako dva lidé na potápějící se lodi. On se oženil jako panic a sexuální stránka pro něj mnoho neznamenala. I bez ohledu na to si byli tak blízcí, on a ona. A Connie se málem nadchla tou důvěrností, která přesahovala sex a mužovo „ukojení“. Clifford ostatně netoužil jenom po svém „ukojení“ natolik, jako se to zdálo u takové spousty mužů. Ne, jejich důvěrnost byla hlubší, nějak osobnější. A sex byl pouhou vedlejší záležitostí nebo přídavkem, jedním z těch podivně zastaralých organických procesů, které přežívají se svou osobitou neohrabaností, ale nejsou ve skutečnosti nezbytné. Connie nicméně chtěla děti, byť i jen proto, aby upevnily její postavení proti švagrové Emmě.
 
 Jenomže na začátku roku 1918 byl Clifford převezen domů v cárech a žádné dítě tu nebylo. A sir Geoffrey zemřel zklamáním.
+
+</section>

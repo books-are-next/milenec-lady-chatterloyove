@@ -3,7 +3,7 @@ title: Kapitola 7
 contentType: prose
 ---
 
-  
+<section>
 
 Když Connie přišla nahoru do své ložnice, udělala něco, co už ne­udělala dávno: vysvlékla se ze všeho a zadívala se na sebe nahá do velikého zrcadla. Nevěděla zvlášť určitě, proč nebo nač se vlastně dívá, ale přitáhla si lampu, až ji plně osvětlovala.
 
@@ -272,3 +272,5 @@ Clifford však dosud toužil po starých důvěrných večerech hovoru s Conni�
 Paní Boltonová jedla s paní Bettsovou v pokoji hospodyně, poněvadž se všichni dobře snášeli. A bylo zajímavé, oč se tím přiblížilo křídlo pro služebnictvo až ke dveřím Cliffordovy pracovny, třebaže předtím bylo tak daleko. Paní Bettsová totiž někdy sedávala v pokoji paní Boltonové a Connie slyšela jejich tlumené hlasy a nějak cítila, jak ta silná a odlišná vibrace pracujících lidí téměř vtrhává do obývacího pokoje, ve kterém seděli s Cliffordem sami. Takovou změnu způsobil na Wragby pouhý příchod paní Boltonové.
 
 A Connie se cítila osvobozena, v jiném světě, cítila, že se jí jinak dýchá. Ale dosud se bála, kolik jejích kořenů, možná smrtelně ohrožených, je propleteno s Cliffordovými. Přesto se jí však dýchalo volněji, v jejím životě se připravovalo nové období.
+
+</section>

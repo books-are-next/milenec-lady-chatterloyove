@@ -3,7 +3,7 @@ title: Kapitola 18
 contentType: prose
 ---
 
-  
+<section>
 
 Musela se rozhodnout, co udělá. Odjede z Benátek tu sobotu, kdy on odjede z Wragby: za šest dní. Takže se dostane do Londýna v pondělí nato a pak ho uvidí. Napsala mu na londýnskou adresu a požádala ho, aby jí poslal psaní do hotelu Hartland a přišel tam pro ni v pondělí v sedm hodin večer.
 
@@ -85,11 +85,15 @@ Jel s ní do hotelu Hartland a dohlédl na její ubytování; pak odešel do s
 
 Našla vzkaz od Mellorse.
 
-  
+</section>
+
+<section>
 
 > _Nepřijdu za tebou do tvého hotelu, ale počkám na tebe v sedm před Zlatým kohoutem v Adamově ulici._
 
-  
+</section>
+
+<section>
 
 Stál tam, vysoký a štíhlý a tak jiný ve večerním obleku z tenké tmavé látky. Choval se od přirozenosti vybraně, ale nebyl přistřižený na míru jako muži z její třídy. Viděla však okamžitě, že se může ukázat všude. Měl vrozené dobré způsoby, což bylo opravdu daleko příjemnější než na míru střižené manýry dané třídní společností.
 
@@ -596,3 +600,5 @@ Byl to skličující večer; malíř od té chvíle ignoroval přítomnost druh�
 „Jenom tě na tom plátnu pošpiní.“
 
 „To je mi jedno. Namaluje jenom svoje vlastní city ke mně, a to mi nevadí. Nedovolila bych mu, aby na mě sáhl, ani za nic. Ale jestli si myslí, že něco dokáže tím svým uměleckým vejráním, ať si vejrá! Může ze mne nadělat, kolik chce rour a vlnitého plechu. Je to jeho pohřeb. Šlo mu proti srsti, cos mu řekl; že jeho rourovité umění je sentimentální a ješitné. Ale samozřejmě máš pravdu.“
+
+</section>

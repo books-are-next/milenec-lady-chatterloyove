@@ -3,7 +3,7 @@ title: Kapitola 5
 contentType: prose
 ---
 
-  
+<section>
 
 Jednoho mrazivého jitra s chabým únorovým sluncem si Clifford a Connie vyšli na procházku přes park do lesa. Totiž Clifford se vezl ve svém pojízdném křesle s bafajícím motorkem a Connie šla vedle něho.
 
@@ -302,3 +302,5 @@ Třeba to instinktivně vytušil, a právě proto musel všechno jedním údere
 A procházela pak životem jako pustinou. Nebylo tu už nic než ten prázdný šlapací mlýn, kterému Clifford říkal celistvý život, vleklé spolužití dvou lidí, kteří jsou zvyklí bydlet spolu v jednom domě.
 
 Nicota! Přijmout tu velkou nicotu života jí připadalo jako se životem skoncovat. Všechna ta spousta rušných a důležitých maličkostí, které dohromady tvoří celkový závěrečný součet nicoty!
+
+</section>

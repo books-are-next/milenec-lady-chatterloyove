@@ -3,7 +3,7 @@ title: Kapitola 15
 contentType: prose
 ---
 
-  
+<section>
 
 Na podnose se snídaní ležel dopis od Hildy. „Tatínek jede tenhle týden do Londýna, a já si pro tebe přijedu příští čtvrtek, tedy 17. června. Buď připravená, abychom mohly hned vyrazit. Nechci na Wragby ztrácet čas, je to strašná díra. Zůstanu patrně přes noc v Retfordu u Colemanových, takže k tobě se dostanu ve čtvrtek k obědu. Mohly bychom pak vyjet po svačině a přespat třeba v Granthamu. Nemá cenu trávit večer s Cliffordem. Jestli nerad vidí, že jedeš, neměl by z toho stejně žádné potěšení.“
 
@@ -508,3 +508,5 @@ Paní Boltonová se podívala muži do obličeje, který byl hladký a jako nov
 „Dobrý večer, paní Boltonová! Milostpaní, teď už budete v pořádku, tak vás můžu opustit. Dobrou noc, milostivá paní! Dobrou noc, paní Boltonová!“
 
 Zasalutoval a otočil se k odchodu.
+
+</section>

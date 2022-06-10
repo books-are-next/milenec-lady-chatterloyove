@@ -3,7 +3,7 @@ title: Kapitola 3
 contentType: prose
 ---
 
-  
+<section>
 
 Connie si nicméně uvědomovala jakýsi narůstající neklid. Z nedostatku spojení se jí zmocňoval neklid jako nějaké šílenství. Cukal jí údy, když nechtěla, aby se jí cukaly, napřimoval jí škubnutím páteř, když se nechtěla napřímit, ale raději by pohodlně odpočívala. Vzrušoval ji v hloubi těla, někde v lůně, až cítila, že musí skočit do vody a plavat, aby tomu unikla; nějaký šílený neklid. Rozbušil jí najednou bláznivě srdce bez nejmenšího důvodu. A hubla.
 
@@ -202,3 +202,5 @@ A stačilo to, aby jí to dalo jakousi rafinovanou sebejistotu, poněkud zaslep
 Na Wragby byla Connie v náladě přímo ohromné. A podněcovala tou svou probuzenou náladou a spokojeností Clifforda, takže v té době napsal ty nejlepší věci a byl svým zvláštním zaslepeným způsobem téměř šťastný. Sklízel vlastně plody smyslového ukojení, které Connie čerpala z Michaelisovy mužské pasivity vztyčené v jejím lůně. Jenže o tom se samozřejmě nikdy nedověděl, a kdyby se to dověděl, sotva by byl poděkoval!
 
 Ale když ty dny její velkolepé radostné nálady a podnětnosti pominuly, docela pominuly, a Connie byla mrzutá a nedůtklivá, jak po nich Clifford zase toužil! Kdyby byl věděl, snad by si byl dokonce přál dát ji s Michaelisem zase dohromady.
+
+</section>

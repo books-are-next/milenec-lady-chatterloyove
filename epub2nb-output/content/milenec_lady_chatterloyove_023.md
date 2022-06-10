@@ -3,9 +3,13 @@ title: Kapitola 19
 contentType: prose
 ---
 
+<section>
+
 > _Drahý Clifforde, obávám se, že došlo k tomu, cos předvídal. Opravdu jsem se zamilovala do jiného muže a doufám, že se se mnou rozvedeš. Bydlím teď s Duncanem v jeho bytě. Psala jsem ti, že byl s námi v Benátkách. Jsem hrozně nešťastná kvůli tobě, ale snaž se to brát klidně. Už mě vlastně nepotřebuješ a já bych nesnesla vrátit se na Wragby. Opravdu se pro tebe nehodím, jsem nejspíš moc netrpělivá a sobecká. Ale nemůžu se už vrátit a žít s tebou. A je mi to všecko tak strašně líto, kvůli tobě. Ale když se nenecháš moc rozčilit, uvidíš, že ti to nebude tak strašně vadit. Osobně jsi o mě vlastně tolik nestál. Tak mi odpusť a zbav se mě._
 
-  
+</section>
+
+<section>
 
 Clifforda tenhle dopis _vnitřně_ nepřekvapil. Vnitřně věděl už dlouho, že ho Connie opouští. Ale naprosto odmítal připustit si to navenek. Proto ho to navenek postihlo jako strašná rána a otřes. Na povrchu si udržoval důvěru k ní naprosto nedotčenou.
 
@@ -95,13 +99,17 @@ Jeho chování ke Connii bylo podivné. Trval na tom, že ji chce zase vidět. A
 
 Paní Boltonová mu už neodporovala. Věděla, s čím má co dělat.
 
-  
+</section>
+
+<section>
 
 _Nemusím ti vykládat, jak na mě tvůj dopis zapůsobil_ (psal Connii do Londýna). _Snad by sis to dovedla představit, kdyby ses o to pokusila, ale nepochybuji, že kvůli mně svou představivost namáhat nebudeš._
 
 _Mohu ti odpovědět jenom tohle: musím tě osobně vidět, tady na Wragby, než budu s to něco podniknout. Slíbila jsi svatosvatě, že se na Wragby vrátíš, a já tě beru za slovo. Ničemu nevěřím a ničemu nerozumím, dokud tě osobně neuvidím, tady za normálních okolností. Nemusím ti ani říkat, že nikdo tady nic netuší, takže tvůj návrat bude docela normální. Jestli pak, až si spolu promluvíme, nezměníš názor, bezpochyby se nějak dohodneme._
 
-  
+</section>
+
+<section>
 
 Connie ten dopis ukázala Mellorsovi.
 
@@ -115,21 +123,29 @@ Connie mlčela. Trochu ji překvapilo, když si uvědomila, že se Clifforda boj
 
 Odepsala a pokusila se Cliffordovi odmítnout. Odpověděl:
 
-  
+</section>
+
+<section>
 
 _Jestli se na Wragby nevrátíš teď, budu předpokládat, že se jednou přece jen vrátíš, a zařídím se podle toho. Nechám prostě všechno, jak to je, a budu tu na tebe čekat, i kdybych čekal padesát let._
 
-  
+</section>
+
+<section>
 
 Poděsilo ji to. Tohle bylo zákeřné tyranizování. Nepochybovala, že Clifford svá slova myslí vážně. Nerozvede se s ní a dítě bude jeho, ledaže by se jí podařilo prokázat jeho nelegitimnost.
 
 Po nějaké době starostí a soužení se rozhodla na Wragby zajet. Hilda pojede s ní. Napsala to Cliffordovi. Odpověděl:
 
-  
+</section>
+
+<section>
 
 _Tvou sestru neuvítám, ale dveře před ní nezavřu. Nepochybuji, že ti nadržovala, když jsi dezertovala od svých povinností a odpovědnosti, tak nečekej, že projevím radost, až ji uvidím._
 
-  
+</section>
+
+<section>
 
 Jely na Wragby. Clifford nebyl doma, když přijely. Přijala je paní Boltonová.
 
@@ -333,7 +349,9 @@ Ale promluvila si s paní Boltonovou.
 
 Takže budou muset čekat až na jaro, až se narodí dítě a až opět přijde časné léto.
 
-  
+</section>
+
+<section>
 
 _Na statku Old Heanor, 29. září_
 
@@ -368,3 +386,5 @@ _Nedělej si nic ze sira Clifforda. Když ti nenapíše, nelam si s tím hlavu.
 _Teď se nemůžu odtrhnout ani od toho psaní._
 
 _Ale tím hlavním jsme spolu a musíme při tom vytrvat a zařídit si to tak, abychom se brzy setkali. Pan Frantík přeje paní Blažence dobrou noc, trochu sklesle, ale se srdcem plným naděje._
+
+</section>

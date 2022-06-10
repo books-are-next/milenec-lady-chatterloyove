@@ -3,7 +3,7 @@ title: Kapitola 2
 contentType: prose
 ---
 
-  
+<section>
 
 Connie s Cliffordem přijeli domů na Wragby na podzim roku 1920. Slečna Chatterleyová, dosud znechucená bratrovým odpadlictvím, odjela pryč a žila v malém bytě v Londýně.
 
@@ -84,3 +84,5 @@ A tak muži, zejména už ne mladí, se k ní chovali skutečně velice roztom
 Jeho příbuzní s ní jednali velmi vlídně. Věděla, že ta vlídnost pramení z nedostatku strachu a že tihle lidé člověka nerespektují, dokud je nedokáže trochu postrašit. Ale zase s nimi nebyla v žádném kontaktu. Nechávala je, aby byli vlídní a přezíraví, dávala jim pocítit, že nemají proč tasit kordy a stavět se do střehu. Nenavázala s nimi žádné opravdové spojení.
 
 Čas plynul. Ať se dělo cokoli, nedělo se nic, poněvadž byla tak nádherně mimo kontakt. Žili s Cliffordem ve svých myšlenkách a v jeho knihách. Ona dělala hostitelku… Vždycky někoho měli v domě. Čas plynul jako na hodinách, najednou je půl deváté místo půl osmé.
+
+</section>
