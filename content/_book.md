@@ -13,6 +13,7 @@ meta:
   modified: '2019-04-11T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2495-5
 readingOrder:
   - promo.html
   - milenec_lady_chatterloyove_005.html
