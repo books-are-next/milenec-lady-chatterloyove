@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-ddcb50f';
+const CACHE = 'cache-1449aa9';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./milenec_lady_chatterloyove_005.html","./milenec_lady_chatterloyove_006.html","./milenec_lady_chatterloyove_007.html","./milenec_lady_chatterloyove_008.html","./milenec_lady_chatterloyove_009.html","./milenec_lady_chatterloyove_010.html","./milenec_lady_chatterloyove_011.html","./milenec_lady_chatterloyove_012.html","./milenec_lady_chatterloyove_013.html","./milenec_lady_chatterloyove_014.html","./milenec_lady_chatterloyove_015.html","./milenec_lady_chatterloyove_016.html","./milenec_lady_chatterloyove_017.html","./milenec_lady_chatterloyove_018.html","./milenec_lady_chatterloyove_019.html","./milenec_lady_chatterloyove_020.html","./milenec_lady_chatterloyove_021.html","./milenec_lady_chatterloyove_022.html","./milenec_lady_chatterloyove_023.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_milenec_lady_ch_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./favicon.png","./colophon.html","./index.html","./manifest.json","./milenec_lady_chatterloyove_005.html","./milenec_lady_chatterloyove_006.html","./milenec_lady_chatterloyove_007.html","./milenec_lady_chatterloyove_008.html","./milenec_lady_chatterloyove_009.html","./milenec_lady_chatterloyove_010.html","./milenec_lady_chatterloyove_011.html","./milenec_lady_chatterloyove_012.html","./milenec_lady_chatterloyove_013.html","./milenec_lady_chatterloyove_014.html","./milenec_lady_chatterloyove_015.html","./milenec_lady_chatterloyove_016.html","./milenec_lady_chatterloyove_017.html","./milenec_lady_chatterloyove_018.html","./milenec_lady_chatterloyove_019.html","./milenec_lady_chatterloyove_020.html","./milenec_lady_chatterloyove_021.html","./milenec_lady_chatterloyove_022.html","./milenec_lady_chatterloyove_023.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_milenec_lady_ch_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
