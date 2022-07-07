@@ -35,7 +35,7 @@ readingOrder:
   - milenec_lady_chatterloyove_021.html
   - milenec_lady_chatterloyove_022.html
   - milenec_lady_chatterloyove_023.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

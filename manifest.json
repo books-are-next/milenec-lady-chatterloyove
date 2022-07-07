@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lawrence-milenec-lady-chatterleyove-b0f7202",
-  "revision": "b0f7202",
+  "identifier": "lawrence-milenec-lady-chatterleyove-0c70154",
+  "revision": "0c70154",
   "readingOrder": [
     "promo.html",
     "milenec_lady_chatterloyove_005.html",
@@ -31,11 +31,11 @@
     "milenec_lady_chatterloyove_021.html",
     "milenec_lady_chatterloyove_022.html",
     "milenec_lady_chatterloyove_023.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:15:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979333209
+    "date": "Thu Jul 07 2022 08:34:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182852650
   },
   "documents": [
     {
@@ -419,7 +419,7 @@
       "role": "chapter",
       "order": 19,
       "prev": "milenec_lady_chatterloyove_022.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -432,11 +432,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 146,
-      "chars": 988,
+      "chars": 987,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "milenec_lady_chatterloyove_023.html",
       "next": null,
@@ -454,7 +454,7 @@
   "totals": {
     "all": {
       "words": 101012,
-      "chars": 601227,
+      "chars": 601226,
       "ideas": 3593
     },
     "chapters": {
