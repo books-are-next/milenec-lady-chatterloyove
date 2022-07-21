@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lawrence-milenec-lady-chatterleyove-4965864",
-  "revision": "4965864",
+  "identifier": "lawrence-milenec-lady-chatterleyove-35a17f4",
+  "revision": "35a17f4",
   "readingOrder": [
     "promo.html",
     "milenec_lady_chatterloyove_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:03:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188203694
+    "date": "Thu Jul 21 2022 14:36:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414210875
   },
   "documents": [
     {
@@ -434,7 +434,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 987,
+      "chars": 988,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -454,7 +454,7 @@
   "totals": {
     "all": {
       "words": 101012,
-      "chars": 601226,
+      "chars": 601227,
       "ideas": 3593
     },
     "chapters": {
