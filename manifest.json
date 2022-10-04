@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lawrence-milenec-lady-chatterleyove-e893ac7",
-  "revision": "e893ac7",
+  "identifier": "lawrence-milenec-lady-chatterleyove-b5da669",
+  "revision": "b5da669",
   "readingOrder": [
     "promo.html",
     "milenec_lady_chatterloyove_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:59:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639983401
+    "date": "Tue Oct 04 2022 16:47:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902063243
   },
   "documents": [
     {
